@@ -1,0 +1,77 @@
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.exe
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.deps.json
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.json
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.dev.json
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csprojAssemblyReference.cache
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form1.resources
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.GenerateResource.cache
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfoInputs.cache
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfo.cs
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CoreCompileInputs.cache
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CopyComplete
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.genruntimeconfig.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.exe
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.deps.json
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.json
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.dev.json
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csprojAssemblyReference.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form1.resources
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.GenerateResource.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfoInputs.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfo.cs
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CoreCompileInputs.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CopyComplete
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.genruntimeconfig.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form2.resources
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form2.resources
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.exe
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.deps.json
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.json
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.dev.json
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.dll
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csprojAssemblyReference.cache
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form1.resources
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form2.resources
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.GenerateResource.cache
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfoInputs.cache
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfo.cs
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CoreCompileInputs.cache
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CopyComplete
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.genruntimeconfig.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.exe
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.deps.json
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.json
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.runtimeconfig.dev.json
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.dll
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.AssemblyReference.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form1.resources
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.Form2.resources
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.GenerateResource.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfoInputs.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.AssemblyInfo.cs
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CoreCompileInputs.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.csproj.CopyComplete
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.dll
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.pdb
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\UI_VentaMinorista\obj\Debug\netcoreapp3.1\UI_VentaMinorista.genruntimeconfig.cache

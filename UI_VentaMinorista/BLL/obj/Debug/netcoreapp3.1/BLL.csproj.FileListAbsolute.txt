@@ -1,0 +1,37 @@
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Salvador.Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Cirino\Desktop\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+F:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\UPE Virtual 2021\Técnicas de programación 2021\Examen parcial virtual - Tema C\UI_VentaMinorista\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
